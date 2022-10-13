@@ -1,0 +1,24 @@
+Code review aims to identify security faws in the application related to its features and design, along with the 
+exact root causes. With the increasing complexity of applications and the advent of new technologies, the 
+traditional way of testing may fail to detect all the security faws present in the applications. 
+
+There are two part - automated and manual (peer)
+
+
+Currrent Process
+Lack of an integrated code review process embedded into the software development and maintainance cycle
+Teams have adopted inconsistent or no practices to peer review the code for style and consistency in design and implementation 
+Absence of a tollgate to prevent individual developers from committing arbitrary or prototype code to the production codebase
+Unavailability of an enterprise tool to make code comments, ask questions, request changes, accept the changes, and capture metrics about the review process.
+Need to leapfrog code quality and maturity to the next level from static code analysis and unit text coverage compliance
+
+
+Improvement Target state
+Define a code review process, flow, and tollgate
+Foster a culture of feedback and expert knowledge sharing that benifits entire developer community
+Establish guiding controls for sharing of information across the team, c coding conventions and standards compliance, and  improving the overall process and quality of code
+Develop best practices and principles in collaboration with subject matter experts and development teams across the bank.
+Proatively educate and upskill developers on costly and most frequent coding and design errors 
+Enterprise-wide index of cross-domain subject matter and development expertise
+Provision a set of tool for collecting expert knowledge on quality improvement, defect reduction and building an experience base for developers
+
